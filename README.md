@@ -8,4 +8,4 @@ movie
 tv
 people
 
-This method fills the vue data object `json_object_returned_from_find_method` with the result (json object)
+This method fills the vue data object `json_object_returned_from_find_method` with the result (json_object)
